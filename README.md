@@ -1,11 +1,9 @@
 <h1 align="center">HelloWorld¡ eu sou João Gabriel</h1>
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=johnboeira&label=Profile%20views&color=0e75b6&style=flat" alt="johnboeira" /> </p>-->
 <h3 align="center">Minhas redes sociais:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/johnboeira/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="johnboeira" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnboeira&show_icons=true&locale=en&layout=compact" alt="johnboeira" /></p> 
 <h3 align="center">Linguagens e ferramentas:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
