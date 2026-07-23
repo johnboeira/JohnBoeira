@@ -37,12 +37,21 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=docker,rabbitmq&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true"
     />
   </a>
 </p>
 
-<h3 align="center">Cloud</h3>
+<h3 align="center">Messaging</h3>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&titles=true"
+    />
+  </a>
+</p>
+
+<h3 align="center">DevOps</h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -54,6 +63,8 @@
 <h3 align="center">Architectural Styles</h3>
 <div align="center" style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/clean%20architecture-8A2BE2?style=for-the-badge" alt="clean-arch" />
+    <img align="center" src="https://img.shields.io/badge/vertical%20slice%20architecture-8A2BE2?style=for-the-badge" alt="Vertical-slice-architecture" />
+    <img align="center" src="https://img.shields.io/badge/modular%20monolith-8A2BE2?style=for-the-badge" alt="modular-monolith" />
 </div>
 
 <br>
